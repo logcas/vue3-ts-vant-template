@@ -1,4 +1,8 @@
-# webchat
+# Template
+
+A basic template with Vue3 & typescript & vant
+
+集成Vue3 & Typescript & Vant & px2rem 的移动端开发模板
 
 ## Project setup
 ```
